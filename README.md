@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Petar Maletin</h1>
+<h1 align="center">Petar Maletin</h1>
 <h3 align="center">A student at Faculty of Sciences, University of Novi Sad</h3>
 
 - 🌱 I’m currently learning **Neural Networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ppettarrm](https://github.com/ppettarrm)
 
-- 💬 Ask me about **Python, Java,...**
-
 - 📫 How to reach me **petar.maletin.1@gmail.com**
-
-- ⚡ Fun fact **Favourite programming language - Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
