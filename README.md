@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Petar Maletin</h1>
 <h3 align="center">A student at Faculty of Sciences, University of Novi Sad</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pettarrm&label=Profile%20views&color=0e75b6&style=flat" alt="pettarrm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pettarrm" alt="pettarrm" /></a> </p>
-
 - 🌱 I’m currently learning **Neural Networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ppettarrm](https://github.com/ppettarrm)
