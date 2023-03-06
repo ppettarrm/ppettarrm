@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img width="450" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ppettarrm&&show_icons=true&theme=dark" alt="pettarrm" /></p>
 
-<p><img width="450" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppettarrm&show_icons=true&layout=compact&theme=dark" alt="pettarrm"></p>
+<p><img width="450" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ppettarrm&show_icons=true&layout=compact&theme=dark" alt="pettarrm"></p>
