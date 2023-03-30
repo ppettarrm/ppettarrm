@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Neural Networks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ppettarrm](https://github.com/ppettarrm)
+- 👨‍💻 All of my projects are available at [https://github.com/ppettarrm](https://github.com/ppettarrm) 
 
 - 📫 Contact me **petar.maletin.1@gmail.com**
 
