@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ppettarrm](https://github.com/ppettarrm) 
 
-- 📫 Contact me **petar.maletin.1@gmail.com**
+- 📫 Contact me **ppettarrm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
