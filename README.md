@@ -1,5 +1,5 @@
 <h1 align="center">Petar Maletin</h1>
-<h3 align="center">A student at Faculty of Sciences, University of Novi Sad</h3>
+<h3 align="center">JetBrains Campus Ambassador | Student at Faculty of Sciences, University of Novi Sad</h3>
 
 - 🌱 I’m currently learning **Neural Networks**
 
