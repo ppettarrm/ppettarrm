@@ -1,7 +1,7 @@
 <h1 align="center">Petar Maletin</h1>
 <h3 align="center">JetBrains Campus Ambassador | Student at Faculty of Sciences, University of Novi Sad</h3>
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ppettarrm](https://github.com/ppettarrm) 
 
